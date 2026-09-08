@@ -1,1 +1,3 @@
-# AgentHub-Skills
+# Nested archive
+
+This archive demonstrates nested directories.
