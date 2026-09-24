@@ -1,0 +1,6 @@
+{
+  "name": "text-quality-analyzer",
+  "version": "1.0.0",
+  "entrypoint": "skill:analyze_text",
+  "description": "Analyze plain text for deterministic quality signals."
+}
